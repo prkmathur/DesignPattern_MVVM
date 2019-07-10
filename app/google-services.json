@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630564420333",
+    "firebase_url": "https://designpatternnhjava.firebaseio.com",
+    "project_id": "designpatternnhjava",
+    "storage_bucket": "designpatternnhjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630564420333:android:e5c74a776a4e0326",
+        "android_client_info": {
+          "package_name": "com.app.designpattern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630564420333-dqap57dassnm270fvf51m6495q03oqa0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.designpattern",
+            "certificate_hash": "a2a80e7d980751e7d7bc87740819fa0a85cbb17c"
+          }
+        },
+        {
+          "client_id": "630564420333-0jc2j22feqcu1enp65gma954alsgp0bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo7FcxCVmNzEHz0nYkhFkqp2K_JfowQUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630564420333-0jc2j22feqcu1enp65gma954alsgp0bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

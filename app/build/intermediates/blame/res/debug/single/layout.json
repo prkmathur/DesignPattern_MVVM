@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_auth.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_splash.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_change_password.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_change_password.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_register.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_center.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_center.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_web_view.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_web_view.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_right.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_right.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_item_setting.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\row_item_setting.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_jobs.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_jobs.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_verification.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_verification.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_toolbar.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\app_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_left.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_left.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_setting.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\Projects_2019\\DesignPattern_NH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_view_pager.xml",
+        "source": "D:\\Projects_2019\\DesignPattern_NH\\app\\src\\main\\res\\layout\\activity_view_pager.xml"
+    }
+]

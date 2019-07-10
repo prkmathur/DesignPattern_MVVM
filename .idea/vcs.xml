@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EasyTransfer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM_DesignPattern_Kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MedicalApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MedicalApp/livelocation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/On Demand" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WiFiP2PDemo" vcs="Git" />
+  </component>
+</project>
